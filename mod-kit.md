@@ -1,6 +1,6 @@
 The Funcom kit is built from Funcom's modified version of Unreal Engine 4.15.3. [3]
 
-The Funcom kit makes these changes to the standard Unreal IDE [3] ...
+The Funcom kit is a modified version of the standard Unreal IDE [3] ...
 
 - Adds toolbar button and menu.
 - R/W to anything outside of `/Content/Mods/<active mod name>/` is blocked.
