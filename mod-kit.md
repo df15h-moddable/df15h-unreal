@@ -1,3 +1,13 @@
+The Funcom kit is built from Funcom's modified version of Unreal Engine 4.15.3. [3]
+
+The Funcom kit makes these changes to the standard Unreal IDE [3] ...
+
+- Adds toolbar button and menu.
+- R/W to anything outside of `/Content/Mods/<active mod name>/` is blocked.
+- R/W to `<content>/Mods/*` is blocked, except ...
+- R/W to `<content>/Mods/<active mod name>/*` is redirected to `<content>/Mods/<active mod name>/Local/*`.
+- R/W to `/Content` is redirected to `<content>/Mods/<active mod name>/Content` (falls back to original path if not found in mod).
+- Prevents use or export of assets licensed by Funcom from the Unreal Marketplace.
 
 ## Reference
 
