@@ -15,4 +15,4 @@ The Funcom kit is a modified version of the standard Unreal IDE [3] ...
 2. [Conan Exiles Workshop](https://steamcommunity.com/app/440900/workshop/) @ steamcommunity.
 3. [Conan Exiles Modding](https://conanexiles.fandom.com/wiki/Modding) @ conanexiles.fandom.
 4. [Modders Field Manual for Conan Exiles](https://docs.google.com/document/d/1BV9OGwnOn-1jxfTw3vX5S_taNQySpAvZ8Lb1oBTOurY/edit#) by "Dr Nash and Friends" @ docs.google.
-5. [All Guides](https://www.dropbox.com/s/qp0u3bj9ork0v93/AllGuides.zip?dl=0) @ dropbox.
+5. [All Guides](https://www.dropbox.com/s/qp0u3bj9ork0v93/AllGuides.zip?dl=0) by Robtheswede @ dropbox.
