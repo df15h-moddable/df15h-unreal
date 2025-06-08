@@ -2,7 +2,7 @@
 The kit gives you access to basically all the assets of the game, from maps and blueprints to meshes and animations.
 The editor itself requires some knowledge, but there are many guides available, and overall it is relatively easy to use." [6]
 
-See the official [Modding](https://www.conanexiles.com/mods/) documentation.
+See the [official documentation](https://www.conanexiles.com/mods/).
 
 The Funcom kit is built from Funcom's modified version of Unreal Engine 4.15.3. [3]
 
