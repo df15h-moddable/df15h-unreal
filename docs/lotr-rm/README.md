@@ -6,6 +6,8 @@ Q: Where are the game's PAK files?
 
 A: `.\Moria\Content\Paks`.
 
+Use [umodel](https://www.gildor.org/en/projects/umodel) to inspect the contents of pak files.
+
 ## Install UE4SS
 
 In the game dir, navigate to ...
