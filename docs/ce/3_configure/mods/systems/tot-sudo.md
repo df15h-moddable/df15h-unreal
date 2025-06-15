@@ -5,6 +5,6 @@
 
 Dependent on Tot! Sudo (for some or all functionality) ...
 
-- Kafrom's Kit Decor
+- Kafrom's Kit (for Decoration Handler API)
 - Tot! Custom
 - Tot! HUD
