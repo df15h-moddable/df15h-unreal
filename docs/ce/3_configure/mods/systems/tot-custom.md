@@ -10,6 +10,7 @@ Features ...
 - Customize weapons ("transmog").
 - Add accessories "regardless of original slot".
 - Save profiles/presets.
+- Supports high heels.
 - Supports thralls.
 - Supports Tot! Admin "puppets" (cf. Pippi "thespians").
 - Adds two types of mannequin (stick+rope, carved).
@@ -23,10 +24,13 @@ Mods dependent on Tot! Custom (for some or all functionality) ...
 - Agony's Attic
 - Cookie's Immersive Armors
 - Cookie's Skinnery
+- Eldubya's Exiled Aesthetics
+- Eldubya's Exiled Armory
 - Ithlinne's Wardrobe
 - Juvilia & Agony's Salon
 - Juvilia's Crabby Accessories
 - Paen's Crabby Accessory Weapons
+- Tydin's Teyahs Boutique
 
 Incompatible with ...
 
