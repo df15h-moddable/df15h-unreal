@@ -18,7 +18,7 @@ Requires ...
 
 - Tot! Sudo (for API)
 
-Dependent on Tot! Custom (for some or all functionality) ...
+Mods dependent on Tot! Custom (for some or all functionality) ...
 
 - Agony's Attic
 - Cookie's Immersive Armors
@@ -30,8 +30,10 @@ Dependent on Tot! Custom (for some or all functionality) ...
 
 Incompatible with ...
 
-- Improved Quality of Life (IQoL)
-- Fashionist
-- Aquilonian Passion Body
-- Akuba Salon
 - Akihabara Design
+- Akuba Salon
+- Aquilonian Passion Body
+- Fashionist
+- Improved Quality of Life (IQoL)
+
+(? Notice that the author doesn't list Whiskey's Acessory Wardrobe ?)
