@@ -5,7 +5,7 @@
 
 Features ...
 
-- Customize body, face, hair, warpaints, etc.
+- Customize body, face, eyes, hair, warpaints, etc.
 - Customize armor ("transmog").
 - Customize weapons ("transmog").
 - Add accessories "regardless of original slot".
