@@ -1,3 +1,6 @@
+The Tot! suite has been gradually updating and replacing the functionality of a number of older mods.
+
+Use one set or the other ...
 
 - Emberlight Improved Quality of Life (IQoL)
 - JoshTech's Pippi
@@ -12,4 +15,9 @@
 - Tot! Admin
 - Tot! Custom
 - Tot! HUD
-- tokatla's Thrall Wars Utilities (a plugin for Tot! Sudo)
+- tokatla's Thrall Wars Utilities (a plugin for Tot! Sudo; a remake of some Pippi features)
+
+A few notes re: Tot!
+
+- Tot! Admin is still labeled alpha (in 2025).
+- In the meantime the other Tot! mods might work alongside Pippi.
