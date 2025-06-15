@@ -3,9 +3,24 @@
 
 Included in Emberlight.
 
+## Chromatic Spice
+
+Activate the Chromatic Spice Dye menu with 
+
+- Shift+',' (Comma) or 
+- use the console command: DataCmd CSDye.
+
 ## Emberlight
 
 "While in admin mode, use the radial menu on any Emberlight placeables to bring up the Configuration Menu."
+
+## Improved Quality of Life
+
+- SHIFT+M
+
+## ModControlPanel
+
+- Shift+End
 
 ## PvE Plus Ambush
 
