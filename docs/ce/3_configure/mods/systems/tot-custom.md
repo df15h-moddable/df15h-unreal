@@ -1,6 +1,18 @@
 # Tot! Custom
 
-[Tot! Custom](https://steamcommunity.com/sharedfiles/filedetails/?id=2886779102) @ Steam Workshop.
+- [Tot! Custom](https://steamcommunity.com/sharedfiles/filedetails/?id=2886779102) @ Steam Workshop.
+- [Tot! Documentation](https://apiconan.totchinuko.fr/#/) @ totchinuko.fr.
+
+Features ...
+
+- Customize body, face, hair, warpaints, etc.
+- Customize armor ("transmog").
+- Customize weapons ("transmog").
+- Add accessories "regardless of original slot".
+- Save profiles/presets.
+- Supports thralls.
+- Support Tot! Admin puppets (cf. Pippi thespians).
+- Adds two types of mannequin (stick+rope, carved).
 
 Requires ...
 
