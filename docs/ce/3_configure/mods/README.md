@@ -17,6 +17,11 @@ Essential add-ons ...
 - Asghaard's Ancient Civilization (build kit)
 - Asghaard's Deco & Placeables
 - Asghaard's Desert Town (build kit)
+- illspirit's Black Ice (build kit)
+- illspirit's Crafty Counters
+- illspirit's Exile Architect (build kit)
+- illspirit's Fence Gates (build kit)
+- illspirit's Stygian (build kit)
 - Multigun's LBPR Less Building Placement Restrictions
 - Multigun's LBPR Additional Features
 - Multigun's Pythagoras Expanded Building
