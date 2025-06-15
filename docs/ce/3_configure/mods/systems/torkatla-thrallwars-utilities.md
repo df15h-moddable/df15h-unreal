@@ -2,4 +2,4 @@
 
 Requires ...
 
-- Tot! Sudo
+- Tot! Sudo (for Char Var API)
