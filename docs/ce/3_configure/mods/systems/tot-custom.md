@@ -12,6 +12,8 @@ Dependent on Tot! Custom (for some or all functionality) ...
 - Cookie's Immersive Armors
 - Cookie's Skinnery
 - Ithlinne's Wardrobe
+- Juvilia's Crabby Accessories
+- Paen's Crabby Accessory Weapons
 
 Incompatible with ...
 
