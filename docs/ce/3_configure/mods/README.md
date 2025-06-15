@@ -1,5 +1,5 @@
 
-Essentials (the core of any modlist) ...
+Essential systems (the core of any modlist) ...
 
 - Emberlight
 - Tot! Sudo
