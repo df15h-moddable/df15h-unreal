@@ -11,4 +11,4 @@
 - Tot! Admin
 - Tot! Custom
 - Tot! HUD
-- tokatla's Trall Wars Utilities (a plugin for Tot! Sudo)
+- tokatla's Thrall Wars Utilities (a plugin for Tot! Sudo)
