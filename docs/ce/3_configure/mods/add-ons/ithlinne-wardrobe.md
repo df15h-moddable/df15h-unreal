@@ -1,5 +1,5 @@
 # Ithlinne's Wardrobe
 
-A collection of apparel.
+A collection of Witcher-esque apparel.
 
 - "designed to work with" Tot! Custom
