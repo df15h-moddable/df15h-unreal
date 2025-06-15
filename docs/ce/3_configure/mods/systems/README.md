@@ -3,6 +3,7 @@
 - JoshTech's Pippi
 - Testerle's Fashionist
 - Testerle's Unlock Plus
+- Waffle's Chromatic Spice
 - Whiskey's Accessory Wardrobe
 
 ... (old-school) OR (new-fangled) ...
