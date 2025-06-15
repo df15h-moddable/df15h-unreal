@@ -40,4 +40,4 @@ Incompatible with ...
 - Fashionist
 - Improved Quality of Life (IQoL)
 
-(? Notice that the author doesn't list Whiskey's Acessory Wardrobe ?)
+(? Notice that the author doesn't list either "Whiskey's Acessory Wardrobe" or "Whiskey's High Heels System" as incompatible ?)
