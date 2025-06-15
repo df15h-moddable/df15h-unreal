@@ -11,7 +11,7 @@ Features ...
 - Add accessories "regardless of original slot".
 - Save profiles/presets.
 - Supports thralls.
-- Support Tot! Admin puppets (cf. Pippi thespians).
+- Supports Tot! Admin "puppets" (cf. Pippi "thespians").
 - Adds two types of mannequin (stick+rope, carved).
 
 Requires ...
