@@ -1,6 +1,6 @@
 # Old-School Essentials
 
-Partially (thus far) superseded by Tot! ...
+Partly (thus far) superseded by Tot! ...
 
 - Joshtech's Pippi (cf Tot! Admin)
 - Testerle's Unlock Plus
