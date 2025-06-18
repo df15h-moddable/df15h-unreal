@@ -14,8 +14,9 @@
 
 ## Quirks
 
-- Tot! Custom is feature-rich and well-implemented. Many would say it's an obvious upgrade on Fashionist, et al.
-- ... but that's not necessarily true (rather, it's a choice), because ...
+Tot! Custom is feature-rich and well-implemented. Many would say it's an obvious upgrade on Fashionist, et al.
+But that's not necessarily true (rather, it's a choice), because ...
+
 - Tot! customizations are _just_ skins that can _only_ be managed and applied via the TC UI (`shift + B`).
 - Unlike the vanilla transmogrifications (Thaumaturgy Illusions).
 - Unlike the item overlay slots in most games (as implemented for Conan Exiles by Fashionist).
@@ -25,6 +26,10 @@ A workaround is to maintain a Nude profile. Switch to it and (per settings) TC w
 - Consequence : TC mannequins don't have item slots. They are not containers. They are simply targets for TC profiles.
 - Consequence : While there is a setting to require we own the gear we are customizing -- as long as a single set is in our inventory,
 we can apply the profile to as many actors and mannequins as are in the vicinity.
+
+Q: Why?
+
+A: A hint might lie in the doc : Accessories may be applied "regardless of original slot". The slot system might be a constraint the author wanted to work around.
 
 ## Dependencies
 
