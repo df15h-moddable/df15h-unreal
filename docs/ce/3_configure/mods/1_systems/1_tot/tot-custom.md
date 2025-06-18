@@ -3,8 +3,8 @@
 ## Features
 
 - Customize body, face, eyes, hair, warpaints, etc.
-- Customize armor ("transmog").
-- Customize weapons ("transmog").
+- Customize armor.
+- Customize weapons.
 - Add accessories "regardless of original slot".
 - Save profiles/presets.
 - Supports high heels.
