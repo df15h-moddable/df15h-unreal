@@ -12,3 +12,8 @@ Dependent on Tot! Sudo (for some or all functionality) ...
 - Thrall Wars Utilities
 - Tot! Custom
 - Tot! HUD
+
+## Reference
+
+- [Super Admin for Steam ID](https://apiconan.totchinuko.fr/#/tips?id=tot-sudo) @ apiconan.totchinuko.
+- [Reset Super Admin Password](https://apiconan.totchinuko.fr/#/tips?id=tot-sudo) @ apiconan.totchinuko.
