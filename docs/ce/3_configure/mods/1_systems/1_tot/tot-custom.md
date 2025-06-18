@@ -27,7 +27,7 @@ A workaround is to maintain a Nude profile. Switch to it and (per settings) TC w
 - Consequence : While there is a setting to require we own the gear we are customizing -- as long as a single set is in our inventory,
 we can apply the profile to as many actors and mannequins as are in the vicinity.
 
-Q: Why?
+Q: Why so quirky?
 
 A: A hint might lie in the doc : Accessories may be applied "regardless of original slot". The slot system might be a constraint the author wanted to work around.
 
