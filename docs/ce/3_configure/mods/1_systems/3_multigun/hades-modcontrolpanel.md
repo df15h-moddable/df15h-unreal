@@ -1,6 +1,12 @@
 # ModControlPanel
 
-- Shift+End
+Multigun is the only author (that I use) that leans into Hades' ModControlPanel.
+
+## Use
+
+Open panel with `shift + end`.
+
+## Dependents
 
 Used by ...
 

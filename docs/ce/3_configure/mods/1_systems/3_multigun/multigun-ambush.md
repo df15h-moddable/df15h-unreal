@@ -1,6 +1,11 @@
 # PvE Plus Ambush
 
-To access the admin menu:
+by Multigun.
 
-- With admin enabled, access the console (~ or insert) and type DataCMD PvEAmbushConfig, or
-- With admin enabled, use ModControlPanel by hades and press Shift + End to access the admin menu.
+## Use
+
+To change settings ...
+
+- Must be in vanilla Administrator mode.
+- Option 1 : Open the standard console with `~ `or `insert`. Type `datacmd PvEAmbushConfig`.
+- Option 2 : Install ModControlPanel by Hades. Open panel with `shift + end`.

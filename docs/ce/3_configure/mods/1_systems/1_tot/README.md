@@ -9,5 +9,6 @@ A few notes re: Tot!
 
 ## Reference
 
+- [Tot! Mods Wiki](https://apiconan.totchinuko.fr/#/) @ apiconan.totchinuko.
 - [apiconan](https://github.com/Totchinuko/apiconan.totchinuko.fr) by totchinuko @ github.
 - [Tot! Mods](https://discord.gg/fTaxD9SNS9) @ discord.
