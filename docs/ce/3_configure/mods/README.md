@@ -11,4 +11,4 @@ is not nearly so well documented as for Skyrim (cf STEP).
 These notes are oriented towards ...
 
 - Solo mode (not a dedicated server).
-- Multi-Map : Solo mode manages saves per map. his effectively allows us to run one character in Exiled Lands as we run another character on Siptah.
+- Multi-Map : Solo mode manages saves per map. This effectively allows us to run one character in Exiled Lands as we run another character on Siptah.
