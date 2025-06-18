@@ -4,7 +4,7 @@ Features ...
 
 - Includes bosses (champions) to be placed with Pippi or Thrall Wars Utlities (TWU).
 - Includes merchants to be placed with Pippi or TWU.
-- Replaces (? some or all ?) Tier 4 Thrall spawns with Thrall Wars Thralls.
+- Adds twenty unique Thrall Wars Thralls to Tier 4 Thrall spawns.
 - Includes new recipes, materials, and gear to be distributed to said bosses, merchants, and thralls.
 
 ## Gem System
