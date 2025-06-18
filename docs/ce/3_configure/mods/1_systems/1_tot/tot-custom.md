@@ -29,7 +29,7 @@ we can apply the profile to as many actors and mannequins as are in the vicinity
 
 Q: Why so quirky?
 
-A: A hint might lie in the doc : Accessories may be applied "regardless of original slot". The slot system might be a constraint the author wanted to work around.
+A: A hint might lie in the doc : Accessories may be applied "regardless of original slot". The vanilla slot system might be a constraint the author wanted to work around.
 
 ## Dependencies
 
