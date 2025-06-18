@@ -1,7 +1,20 @@
+Tot! Sudo
+
+## Features
+
+- A server admin panel that serves as a management platform (and accepts plugins, like "Thrall Wars Utlities").
+- An API to be leveraged by other mods (doc at [apiconan.totchinuko](https://apiconan.totchinuko.fr/#/sudo)).
+
+## Use
 
 - Admin panel: `Shift + U` or console command `datacmd sudoexile`
 - User settings: `Shift + Alt + U` or console command `datacmd clientconfig`
 
+## Dependencies
+
+None.
+
+## Dependents
 
 Dependent on Tot! Sudo (for some or all functionality) ...
 
