@@ -1,4 +1,6 @@
-# Controller
+# AI Controller
+
+"The associated C++ class is `AIController`."
 
 ## Reference
 

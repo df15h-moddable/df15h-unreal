@@ -1,4 +1,6 @@
-# State
+# Character
+
+"A Character is a subclass of a Pawn Actor that is intended to be used as a player character."
 
 ## Reference
 

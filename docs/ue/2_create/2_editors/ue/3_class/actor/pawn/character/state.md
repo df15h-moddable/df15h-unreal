@@ -1,4 +1,6 @@
-# Controller
+# Player State
+
+"The associated C++ class is `PlayerState`."
 
 ## Reference
 

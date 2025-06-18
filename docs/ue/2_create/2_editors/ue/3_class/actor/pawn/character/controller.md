@@ -1,4 +1,6 @@
-# Character
+# Player Controller
+
+"The associated C++ class is `PlayerController`."
 
 ## Reference
 
