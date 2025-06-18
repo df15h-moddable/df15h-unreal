@@ -19,3 +19,4 @@ Explanation from "Conan Exiles Modder's Field Manual" (rephrased) ...
 - [Blueprints](https://buckminsterfullerene02.github.io/dev-guide/Basis/Blueprints.html) by buckminsterfullerene02 @ github.
 - [Unreal Mod Loader Tutorials: Creating A Blueprint Mod](https://www.youtube.com/watch?v=fB3yT85XhVA&t=2s) by Russell.J @ youtube.
 - [UnrealModLoader](https://github.com/RussellJerome/UnrealModLoader) by RussellJerome @ github.
+- [Conan Exiles Modder's Field Manual](https://docs.google.com/document/d/1BV9OGwnOn-1jxfTw3vX5S_taNQySpAvZ8Lb1oBTOurY/edit?tab=t.0) @ docs.google.
