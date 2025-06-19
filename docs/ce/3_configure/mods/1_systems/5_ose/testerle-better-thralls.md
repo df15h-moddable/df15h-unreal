@@ -7,3 +7,7 @@ Features ...
 - Reduces fall damage for thralls and pets (so that they don't die on elevators).
 - Warcry : Command all thralls in range (keybind=T).
 - Lamplighter : A new type of thrall to maintain torches.
+
+## Reference
+
+- [Testerle's Conan Exiles Mods](https://testerle.net/) @ wordpress.
