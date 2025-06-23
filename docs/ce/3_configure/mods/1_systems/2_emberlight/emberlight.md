@@ -10,6 +10,15 @@
 - Vanity : An aesthetics package for added character customization.
 - ... and more (wepaon and armor variants, etc) ...
 
+Feats ...
+
+- Apprentice Tub Maker
+- Horticulture Novice
+- Minting (coins)
+- Rugged Desert Wraps
+- Rugged Highland Wraps
+- Simple Hospitality (food container objects)
+
 ## Use
 
 "While in admin mode, use the radial menu on any Emberlight placeables to bring up the Configuration Menu."
