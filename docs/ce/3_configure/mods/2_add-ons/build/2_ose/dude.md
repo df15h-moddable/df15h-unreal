@@ -6,11 +6,15 @@ Q: Why?
 
 A: The build kits are extremely high quality.
 
+Q: Why not?
+
+A: The build kits aren't all themed appropriately to the setting.
+
 Q: Is it up-to-date?
 
 A: NO, not since Apr 2024.
 
-WARNING : Many users report that these mods BREAK Living Settlements behaviors.
+WARNING : Some users report that these mods BREAK Living Settlement behaviors.
 
 ## Features
 
