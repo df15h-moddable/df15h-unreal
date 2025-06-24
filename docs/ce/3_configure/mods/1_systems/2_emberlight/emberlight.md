@@ -12,12 +12,20 @@
 
 Feats ...
 
+- Adherent (prayer rugs)
 - Apprentice Tub Maker
+- Barkeeper Serving Station
 - Horticulture Novice
 - Minting (coins)
-- Rugged Desert Wraps
-- Rugged Highland Wraps
+- Rugged Desert Wraps (armor)
+- Rugged Highland Wraps (armor)
 - Simple Hospitality (food container objects)
+- Town Signs
+
+Materials ...
+
+- Cactus Seeds
+- Dry Plant Material
 
 Weapons ...
 
