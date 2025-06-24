@@ -1,11 +1,28 @@
 ## Ravencrest Couriers
 
+### Features
+
+- Yes this is a notes mod, but ...
+- Maybe it's really a bird mod!
+
+About notes ...
+
 - Write and distribute/deliver notes, etc.
 - Designed for multiplayer, of course.
 
+About birds ...
+
+- There are 20 species of messenger bird.
+- Birds can be leveled like Thralls.
+- Birds can deliver to coops and mailboxes (much like "Exiles Express").
+- Birds can carry a few items of very low weight (e.g. coins).
+- Birds can be placed as decor.
+- Birds can be worn as shoulder accessories.
+- Birds have a detection range and tracking mode -- by which the player can be alerted of nearby actors.
+
 Feats ...
 
-- Penmanship : Craft notes, scrolls, books, bookcases, inkpots, quills, and mailboxes.
+- Penmanship : Craft journals, notes, scrolls, books, bookcases, inkpots, quills, and mailboxes.
 - Bird Keeper: Build bird coops. Train messenger birds.
 
 ## Ships of the Exiled
