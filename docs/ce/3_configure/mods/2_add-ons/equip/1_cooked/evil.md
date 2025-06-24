@@ -2,9 +2,38 @@
 
 ## Features
 
-- Nomenclature is NOT Hyborian.
+(Nomenclature is NOT Hyborian.)
 
-### Evils Garments
+Crafting Stations ...
+
+- Arsenal Workplace (Armoury)
+- Jeweler Workplace (Accessories)
+- Tailor Workplace (Garments)
+- Tanner Workplace (Leatherwork)
+
+### Accessories
+
+- Asharim Suncleric
+- Blackjackal
+- Marigold
+- Morngrim
+- Silvertwine
+
+### Armoury
+
+- Blackgrail
+- Darkguard
+- Goldhawk Warden
+- Greywatch Soldier
+- Lightkeeper
+- Medurian Temple
+- Noctris
+- Osgard Marauder
+- Panthonian Champion
+
+### Leatherwork
+
+### Garments
 
 - Asharim Suncleric
 - Dockworker
@@ -16,3 +45,7 @@
 - Osgard Noble
 - Piershack Prowler
 - Silvertwine
+
+## Use
+
+- Feats are learned in the Knowledge panel.
