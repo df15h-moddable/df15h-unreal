@@ -10,15 +10,15 @@
 - Vanity : An aesthetics package for added character customization.
 - ... and more (wepaon and armor variants, etc) ...
 
-Feats ...
+Craft ...
 
-- Adherent (prayer rugs)
-- Apprentice Tub Maker
 - Barkeeper Serving Station
 - Horticulture Novice
 - Minting (coins)
-- Rugged Desert Wraps (armor)
-- Rugged Highland Wraps (armor)
+
+Decor ...
+
+- Apprentice Tub Maker
 - Simple Hospitality (food container objects)
 - Town Signs
 
@@ -27,9 +27,31 @@ Materials ...
 - Cactus Seeds
 - Dry Plant Material
 
+Armors ...
+
+- Layered Leather
+- Light Mask
+- Rugged Desert Wraps
+- Rugged Highland Wraps
+- Savage Earrings
+
 Weapons ...
 
+- Iron Bearded Great Axe
+- Iron Crescents
+- Iron Greatblade
+- Kinscourge Betrayal Short Blade
+- Kinscourge Riven Heart Short Blade
 - Steel War Blade
+
+Religion ...
+
+- Adherent (prayer rugs)
+- Devotee of Derketo (shrine)
+- Devotee of Mitra (shrine)
+- Devotee of Set (shrine)
+- Devotee of Ymir (shrine)
+- Devotee of Yog (shrine)
 
 ## Use
 
