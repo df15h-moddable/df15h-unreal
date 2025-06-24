@@ -33,6 +33,17 @@ Crafting Stations ...
 
 ### Leatherwork
 
+- Artisan
+- Blackjackal
+- Bloodrim Militant
+- Drainrunner
+- Morngrim Berserk
+- Mornheym Housecarl
+- Noctorian Gambesons
+- Noctorian Hunter
+- Noctorian Jackets
+- Noctorian Resident
+
 ### Garments
 
 - Asharim Suncleric
