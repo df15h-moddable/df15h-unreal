@@ -16,6 +16,16 @@ by Senja.
 - All the Feats and Recipes.
 - More than 2000 items.
 
+Feats ...
+
+- Alchemist (potion bottles, etc)
+- Animal Tamer
+- Avian (ravens, etc)
+- Human Slaughterer
+- Smith
+- Stonemason
+- Tailor
+
 ### Vol.2
 
 - Nearly 1000 items.
