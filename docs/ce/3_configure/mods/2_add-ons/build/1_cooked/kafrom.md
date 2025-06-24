@@ -31,3 +31,9 @@ Feats ...
 - The build sets do not snap. They are all free-place.
 - All items can be built with the Construction Hammer.
 - All items (including the build kits) appear in the Decorations section of the Construction Hammer panel.
+
+## Configuration
+
+Requires ...
+
+Tot! Sudo (for the Decoration Handler API)
