@@ -42,6 +42,12 @@ by Senja.
 - Can be learned from Tokens that are Admin spawn only.
 - Author plans to discontinue this version (eventually). May be rebuilt as "Shadows of Skelos Vol.4".
 
+## Use
+
+- Feats are learned from Knowledge (IFF "Unlock Recipe Feats" is installed).
+- Items are distributed throughout standard benches.
+- Items CANNOT be crafted with the Construction Hammer.
+
 ## Configuration
 
 - Load 1-4 in INVERSE ORDER, with Vol.1 last.
