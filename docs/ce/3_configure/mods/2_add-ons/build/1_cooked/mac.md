@@ -5,7 +5,6 @@ Mods by MutantArtCat aka MAC.
 Why ...
 
 - Clutter : Appropriately thematic.
-
 - Paperwork : More credible AI-generated art.
 - Storage : Appropriately thematic.
 
