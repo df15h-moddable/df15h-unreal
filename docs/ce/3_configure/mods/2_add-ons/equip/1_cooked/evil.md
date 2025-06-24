@@ -13,6 +13,8 @@ Crafting Stations ...
 
 ### Accessories
 
+Feats (apparel sets) ...
+
 - Asharim Suncleric
 - Blackjackal
 - Marigold
@@ -20,6 +22,8 @@ Crafting Stations ...
 - Silvertwine
 
 ### Armoury
+
+Feats (apparel sets) ...
 
 - Blackgrail
 - Darkguard
@@ -33,6 +37,8 @@ Crafting Stations ...
 
 ### Leatherwork
 
+Feats (apparel sets) ...
+
 - Artisan
 - Blackjackal
 - Bloodrim Militant
@@ -45,6 +51,8 @@ Crafting Stations ...
 - Noctorian Resident
 
 ### Garments
+
+Feats (apparel sets) ...
 
 - Asharim Suncleric
 - Dockworker
