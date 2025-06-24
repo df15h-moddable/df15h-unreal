@@ -4,7 +4,7 @@ by Jia.
 
 Q: Why?
 
-A: Just because it's one of the most popular mods ever.
+A: A good, thematic base set of decorations.
 
 Q: Is it up-to-date?
 
