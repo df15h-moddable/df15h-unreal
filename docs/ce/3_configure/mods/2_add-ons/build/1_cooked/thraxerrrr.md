@@ -27,6 +27,11 @@ Feats ...
 
 ## Ships of the Exiled
 
+### Features
+
+- Build ships and sail them on water.
+- "Savage Steel" has similar bobbing placeables, but those aren't navigable.
+
 Feats ...
 
 - Shipwright
