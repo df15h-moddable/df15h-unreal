@@ -7,7 +7,32 @@ Feats ...
 
 ## Ships of the Exiled
 
-...
+Feats ...
+
+- Shipwright
+
+Recipes ...
+
+- Artisan : Craft sails and rigging.
+- Blacksmith : Craft steering wheels and anchors.
+- Carpenter : Craft frame, planks, masts, oars. Assemble (craft) parts into a ship.
+
+Ships ...
+
+- Rowboat
+- Raft
+- Trireme
+- Khitan Vessel
+- Merchant Vessel
+- Fishing Sloop
+- Drakkar
+- Galleon
+- Stygian Raider
+
+### Configuration
+
+- Some ships can be customized via radial menu.
+- Includes an Admin plugin for Tot! Sudo.
 
 ## Reference
 
