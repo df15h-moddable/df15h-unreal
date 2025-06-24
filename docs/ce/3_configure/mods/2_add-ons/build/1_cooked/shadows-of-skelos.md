@@ -29,7 +29,7 @@ by Senja.
 - Allows Feats to be learned from the Knowledge panel.
 - Excluding Bloody Messages, Cobwebs, Elemental, Mage, Wizard. These remain admin-only.
 
-## Askerandu Oriental (aka SvS4)
+### Askerandu Oriental (aka Vol.4)
 
 - 150 oriental themed items.
 - Feat : Desert Plants

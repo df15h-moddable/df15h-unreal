@@ -14,6 +14,7 @@ A: NO, not since May 2021, but community feedback and my own experience (in 2025
 
 - Simple "crude" crafting stations, crafted from inventory.
 - Feat : Adventurer (survival tools, including Rabbit Trap).
+- Feat : Barbarian Huts
 - Feat : Instrument Maker (Fiddle, Flute, Lute, Small Horn).
 
 ## Reference

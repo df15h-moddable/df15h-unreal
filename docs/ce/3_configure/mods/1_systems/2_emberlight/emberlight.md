@@ -19,6 +19,10 @@ Feats ...
 - Rugged Highland Wraps
 - Simple Hospitality (food container objects)
 
+Weapons ...
+
+- Steel War Blade
+
 ## Use
 
 "While in admin mode, use the radial menu on any Emberlight placeables to bring up the Configuration Menu."
