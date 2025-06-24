@@ -33,3 +33,9 @@ A: NO, not since Apr 2024.
 - Feat : Pillager
 - Feat : Shipwright
 - Feat : Smithy
+
+## Use
+
+- Feats are learned from Knowledge.
+- Items are distributed throughout standard benches.
+- Items CANNOT be crafted with the Construction Hammer.
