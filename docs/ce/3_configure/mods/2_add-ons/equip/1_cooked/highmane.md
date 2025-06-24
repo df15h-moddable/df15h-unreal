@@ -19,8 +19,11 @@ by Dracula.
 
 Feats ...
 
+- Accessories
 - Armaments
+- Armor Appearances
 - Construction
+- Consumables
 - Crafts
 - Equipment
 - Infiltrator
