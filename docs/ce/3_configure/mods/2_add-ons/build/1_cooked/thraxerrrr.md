@@ -1,5 +1,8 @@
 ## Ravencrest Couriers
 
+- Write and distribute/deliver notes, etc.
+- Designed for multiplayer, of course.
+
 Feats ...
 
 - Penmanship : Craft notes, scrolls, books, bookcases, inkpots, quills, and mailboxes.
