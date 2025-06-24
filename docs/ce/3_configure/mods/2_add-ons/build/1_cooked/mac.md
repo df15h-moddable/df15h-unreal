@@ -2,6 +2,18 @@
 
 Mods by MutantArtCat aka MAC.
 
+Why ...
+
+- Clutter : Appropriately thematic.
+- Paperwork : More credible AI-generated art.
+- Storage : Appropriately thematic.
+
+Why not ...
+
+- Caves : Edits Exiled Lands. Potential conflicts.
+- Dungeons : Edits Exiled Lands. Potential conflicts.
+- Paintings : Being AI-generated, they look very ArtStation (i.e. modern).
+
 ## Caves
 
 - Adds 7 caves to the Exiled Lands.
