@@ -51,7 +51,7 @@ Workaround: Maintain a Nude profile. Switch to it and (per settings) TC won't le
 - TC's weapon customization system vastly overcomplicates the otherwise simple feature of showing equipped gear -- sheathing it and unsheathing it.
 The intended solution is that (1) we should disable the base game setting to show equipment, and (2) weapons are displayed as ACCESSORIES.
 This very fiddly solution for all practical purposes doesn't scale beyond the player character -- not because we couldn't make a zillion profiles (we could, but that's _ridiculous_).
-For that reason, we use the vanilla equipment display system rather than TC.
+For that reason, we use the vanilla weapon and tool display system rather than TC.
 
 Q: Why so quirky?
 
