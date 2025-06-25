@@ -13,7 +13,7 @@ In each category, the facilities (sliders, colors, etc) are extensive.
 
 In addition to the player character, customizations can be applied to ...
 
-- Sthralls
+- thralls
 - Tot! Admin "puppets" (cf. Pippi "thespians")
 - two types of mannequin (stick+rope, carved)
 
