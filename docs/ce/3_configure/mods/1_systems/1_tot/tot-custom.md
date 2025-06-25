@@ -68,3 +68,4 @@ Incompatible with ...
 
 - [Tot! Custom](https://steamcommunity.com/sharedfiles/filedetails/?id=2886779102) @ Steam Workshop.
 - [Tot! Documentation](https://apiconan.totchinuko.fr/#/) @ totchinuko.fr.
+- [Tot! Custom Introduction](https://www.youtube.com/watch?v=riVQcPQ-cNY) by Totchinuko @ youtube.
