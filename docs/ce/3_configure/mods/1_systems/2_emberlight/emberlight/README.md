@@ -10,15 +10,7 @@
 - Vanity : An aesthetics package for added character customization.
 - ... and more (wepaon and armor variants, etc) ...
 
-Craft ...
 
-
-- Horticulture Novice
-
-Materials ...
-
-- Cactus Seeds
-- Dry Plant Material
 
 Armors ...
 
