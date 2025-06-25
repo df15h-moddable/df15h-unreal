@@ -28,5 +28,8 @@ Dependent on Tot! Sudo (for some or all functionality) ...
 
 ## Reference
 
+## Reference
+
+- [Tot! Documentation](https://apiconan.totchinuko.fr/#/) @ totchinuko.fr.
 - [Super Admin for Steam ID](https://apiconan.totchinuko.fr/#/tips?id=tot-sudo) @ apiconan.totchinuko.
 - [Reset Super Admin Password](https://apiconan.totchinuko.fr/#/tips?id=tot-sudo) @ apiconan.totchinuko.
