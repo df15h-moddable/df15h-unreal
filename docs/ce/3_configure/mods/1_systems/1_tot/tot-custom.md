@@ -2,30 +2,54 @@
 
 ## Features
 
-- Customize body, face, eyes, hair, warpaints, etc.
-- Customize armor.
-- Customize weapons.
+Customization is organized into four categories ...
+
+- Bodies
+- Weapons
+- Armors
+- Accessories
+
+In each category, the facilities (sliders, colors, etc) are extensive.
+
+In addition to the player character, customizations can be applied to ...
+
+- Sthralls
+- Tot! Admin "puppets" (cf. Pippi "thespians")
+- two types of mannequin (stick+rope, carved)
+
+And more ...
+
 - Add accessories "regardless of original slot".
 - Save profiles/presets.
 - Supports high heels.
-- Supports thralls.
-- Supports Tot! Admin "puppets" (cf. Pippi "thespians").
-- Adds two types of mannequin (stick+rope, carved).
 
 ## Quirks
 
-Tot! Custom is feature-rich and well-implemented. Many would say it's an obvious upgrade on Fashionist, et al.
-But that's not necessarily true (rather, it's a choice), because ...
+Tot! Custom is feature-rich and well-implemented, but ...
+it DOES NOT behave like any typical RPG customization system!
 
-- Tot! customizations are _just_ skins that can _only_ be managed and applied via the TC UI (`shift + B`).
-- Unlike the vanilla transmogrifications (Thaumaturgy Illusions).
-- Unlike the item overlay slots in most games (as implemented for Conan Exiles by Fashionist).
-- Not intuitive, because it doesn't behave like any other popular game. You have to learn to play TC's way.
-- Consequence : When the player dies, and drops all gear, the TC appearance is not removed.
-A workaround is to maintain a Nude profile. Switch to it and (per settings) TC won't let you switch back until you recover your gear.
-- Consequence : TC mannequins don't have item slots. They are not containers. They are simply targets for TC profiles.
-- Consequence : While there is a setting to require we own the gear we are customizing -- as long as a single set is in our inventory,
+- Tot! Custom is _unlike_ the item overlay slots in most games (as implemented for Conan Exiles by Testerle and Whiskey).
+- Tot! Custom is _unlike_ the vanilla transmogrifications (Thaumaturgy Illusions).
+
+Tot! Custom customizations are NAMED SKINS (aka profiles).
+
+- We DO NOT morph our character's body -- rather, we make a separate named body profile (skin) and APPLY it.
+- We do not transmogrify our weapons -- rather, we make a separate named weapons profile and APPLY it.
+- We do not transmogrify our armor, nor do we slot overlay items into a paper doll -- rather, we make a separate named armor profile and APPLY it.
+- We do not slot overlay accessories into a paper doll -- rather, we make a separate named accessories profile and APPLY it.
+- To change our cusomization details on the fly, we don't unslot overlay items -- rather, we make separate named profiles and APPLY them.
+
+This comes with some non-intuitive side-effects. Some could be called game-breaking, to various degrees.
+
+- TC mannequins don't have item slots. They are not containers. They are simply targets for TC profiles.
+- While there is a setting to require we own the gear we are customizing -- as long as a single set is in our inventory,
 we can apply the profile to as many actors and mannequins as are in the vicinity.
+- When the player dies, and drops all gear, the TC appearance is not removed.
+Workaround: Maintain a Nude profile. Switch to it and (per settings) TC won't let you switch back until you recover your gear.
+- TC's weapon customization system vastly complicates the otherwise simple feature of showing equipped gear -- sheathing it and unsheathing it.
+The intended solution is that (1) we should disable the base game setting to show equipment, and (2) weapons are displayed as ACCESSORIES.
+This very fiddly solution for all practical purposes doesn't scale beyond the player character -- not because we couldn't make a zillion profiles (we could, but that's _ridiculous_).
+For that reason, we use the vanilla equipment display system rather than TC.
 
 Q: Why so quirky?
 
