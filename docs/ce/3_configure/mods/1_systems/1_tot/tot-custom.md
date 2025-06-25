@@ -55,7 +55,7 @@ Workaround: Maintain a Nude profile. Switch to it and (per settings) TC won't le
 
 ### Weapons
 
-While the quirks listed above sren't showstoppers, TC's weapon customization system is something else.
+While the quirks listed above aren't showstoppers, TC's weapon customization system is something else.
 
 - The otherwise simple feature of showing equipped weapons and tools (sheathing and unsheathing) is vastly overcomplicated.
 - The intended solution is that ...
