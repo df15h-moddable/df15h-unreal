@@ -48,10 +48,17 @@ This system comes with some non-intuitive side-effects. Some could be called gam
 we can apply the profile to as many actors and mannequins as are in the vicinity.
 - When the player dies, and drops all gear, the TC appearance is not removed.
 Workaround: Maintain a Nude profile. Switch to it and (per settings) TC won't let you switch back until you recover your gear.
-- TC's weapon customization system vastly overcomplicates the otherwise simple feature of showing equipped gear -- sheathing it and unsheathing it.
-The intended solution is that (1) we should disable the base game setting to show equipment, and (2) weapons are displayed as ACCESSORIES.
-This very fiddly solution for all practical purposes doesn't scale beyond the player character -- not because we couldn't make a zillion profiles (we could, but that's _ridiculous_).
-For that reason, we use the vanilla weapon and tool display system rather than TC.
+
+While the quirks listed above sren't showstopppers, TC's weapon customization system is something else.
+
+- The otherwise simple feature of showing equipped weapons and tools (sheathing and unsheathing) is vastly overcomplicated.
+- The intended solution is that ...
+- (1) We should disable the base game setting (show/hide).
+- (2) Weapons shoulod be displayed as ACCESSORIES.
+- It's a powerful system, with an extraoridinary amount of control, and might be great IFF ...
+- IFF we only cared about weapon display on our player character.
+- The approach doesn't scale to thralls and NPCs. We'd have to create a million profiles.
+- For that reason, we (1) ENABLE the base game setting (show/hide) and ignore this feature of Tot! Custom.
 
 Q: Why so quirky?
 
