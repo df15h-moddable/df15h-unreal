@@ -48,7 +48,7 @@ This system comes with some non-intuitive side-effects. Some could be called gam
 we can apply the profile to as many actors and mannequins as are in the vicinity.
 - When the player dies, and drops all gear, the TC appearance is not removed.
 Workaround: Maintain a Nude profile. Switch to it and (per settings) TC won't let you switch back until you recover your gear.
-- TC's weapon customization system vastly complicates the otherwise simple feature of showing equipped gear -- sheathing it and unsheathing it.
+- TC's weapon customization system vastly overcomplicates the otherwise simple feature of showing equipped gear -- sheathing it and unsheathing it.
 The intended solution is that (1) we should disable the base game setting to show equipment, and (2) weapons are displayed as ACCESSORIES.
 This very fiddly solution for all practical purposes doesn't scale beyond the player character -- not because we couldn't make a zillion profiles (we could, but that's _ridiculous_).
 For that reason, we use the vanilla equipment display system rather than TC.
