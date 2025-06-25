@@ -10,34 +10,6 @@
 - Vanity : An aesthetics package for added character customization.
 - ... and more (wepaon and armor variants, etc) ...
 
-
-
-Armors ...
-
-- Layered Leather
-- Light Mask
-- Rugged Desert Wraps
-- Rugged Highland Wraps
-- Savage Earrings
-
-Weapons ...
-
-- Iron Bearded Great Axe
-- Iron Crescents
-- Iron Greatblade
-- Kinscourge Betrayal Short Blade
-- Kinscourge Riven Heart Short Blade
-- Steel War Blade
-
-Religion ...
-
-- Adherent (prayer rugs)
-- Devotee of Derketo (shrine)
-- Devotee of Mitra (shrine)
-- Devotee of Set (shrine)
-- Devotee of Ymir (shrine)
-- Devotee of Yog (shrine)
-
 ## Use
 
 "While in admin mode, use the radial menu on any Emberlight placeables to bring up the Configuration Menu."
