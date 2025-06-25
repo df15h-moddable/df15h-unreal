@@ -60,7 +60,7 @@ While the quirks listed above aren't showstoppers, TC's weapon customization sys
 - The otherwise simple feature of showing equipped weapons and tools (sheathing and unsheathing) is vastly overcomplicated.
 - The intended solution is that ...
 - (1) We should disable the base game setting (show/hide).
-- (2) Weapons shoulod be displayed as ACCESSORIES.
+- (2) Weapons should be displayed as ACCESSORIES.
 - It's a powerful system, with an extraordinary amount of control, and might be great IFF ...
 - IFF we only cared about weapon display on our player character.
 - The approach doesn't scale to thralls and NPCs. We'd have to create a million profiles.
