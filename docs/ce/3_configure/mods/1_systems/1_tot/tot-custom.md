@@ -33,13 +33,15 @@ it DOES NOT behave like any typical RPG customization system!
 
 Tot! Custom customizations are NAMED SKINS (aka profiles).
 
-- We DO NOT morph our character's body -- rather, we make a separate named body profile (skin) and APPLY it.
-- We do not transmogrify our weapons -- rather, we make a separate named weapons profile and APPLY it.
-- We do not transmogrify our armor, nor do we slot overlay items into a paper doll -- rather, we make a separate named armor profile and APPLY it.
-- We do not slot overlay accessories into a paper doll -- rather, we make a separate named accessories profile and APPLY it.
-- To change our cusomization details on the fly, we don't unslot overlay items -- rather, we make separate named profiles and APPLY them.
+- We DO NOT morph our character's body ...
+- We do not transmogrify our weapons ...
+- We do not transmogrify our armor, nor do we slot overlay items into a paper doll ...
+- We do not slot overlay accessories into a paper doll ...
+- To change our cusomization details on the fly, we don't unslot overlay items ...
 
-This comes with some non-intuitive side-effects. Some could be called game-breaking, to various degrees.
+... RATHER, we make separate NAMED SKINS (profiles) and APPLY them.
+
+This system comes with some non-intuitive side-effects. Some could be called game-breaking, to various degrees.
 
 - TC mannequins don't have item slots. They are not containers. They are simply targets for TC profiles.
 - While there is a setting to require we own the gear we are customizing -- as long as a single set is in our inventory,
