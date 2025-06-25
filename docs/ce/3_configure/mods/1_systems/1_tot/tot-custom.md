@@ -31,6 +31,8 @@ it DOES NOT behave like any typical RPG customization system!
 - Tot! Custom is _unlike_ the item overlay slots in most games (as implemented for Conan Exiles by Testerle and Whiskey).
 - Tot! Custom is _unlike_ the vanilla transmogrifications (Thaumaturgy Illusions).
 
+### Profiles
+
 Tot! Custom customizations are NAMED SKINS (aka profiles).
 
 - We DO NOT morph our character's body ...
@@ -41,6 +43,8 @@ Tot! Custom customizations are NAMED SKINS (aka profiles).
 
 ... RATHER, we make separate NAMED SKINS (profiles) and APPLY them.
 
+### Consequences
+
 This system comes with some non-intuitive side-effects. Some could be called game-breaking, to various degrees.
 
 - TC mannequins don't have item slots. They are not containers. They are simply targets for TC profiles.
@@ -49,7 +53,9 @@ we can apply the profile to as many actors and mannequins as are in the vicinity
 - When the player dies, and drops all gear, the TC appearance is not removed.
 Workaround: Maintain a Nude profile. Switch to it and (per settings) TC won't let you switch back until you recover your gear.
 
-While the quirks listed above sren't showstopppers, TC's weapon customization system is something else.
+### Weapons
+
+While the quirks listed above sren't showstoppers, TC's weapon customization system is something else.
 
 - The otherwise simple feature of showing equipped weapons and tools (sheathing and unsheathing) is vastly overcomplicated.
 - The intended solution is that ...
