@@ -12,15 +12,8 @@
 
 Craft ...
 
-- Barkeeper Serving Station
+
 - Horticulture Novice
-- Minting (coins)
-
-Decor ...
-
-- Apprentice Tub Maker
-- Simple Hospitality (food container objects)
-- Town Signs
 
 Materials ...
 
