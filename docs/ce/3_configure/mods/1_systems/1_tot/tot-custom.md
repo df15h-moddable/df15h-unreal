@@ -52,6 +52,7 @@ This system comes with some non-intuitive side-effects. Some could be called gam
 we can apply the profile to as many actors and mannequins as are in the vicinity.
 - When the player dies, and drops all gear, the TC appearance is not removed.
 Workaround: Maintain a Nude profile. Switch to it and (per settings) TC won't let you switch back until you recover your gear.
+(This may be why the author created Tot! Death.)
 
 ### Weapons
 
