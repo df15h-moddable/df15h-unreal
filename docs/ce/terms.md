@@ -10,8 +10,13 @@ Q: How do I credit Funcom when I use the material on my site?
 
 A: If you share our content, please provide a link to our site or product web page and mention that it belongs to us by showing our copyright notice “© Funcom Oslo AS”.
 
+Q: Can I use your Trademarks or Logos?
+
+A: You may not use our trademarks (including, for example, the game title or our company name) other than to describe the fact that your [content] is about one of our games. Use of our logos is not permitted at all.
+
 ## Reference
 
+- [Conan Exiles](https://www.conanexiles.com/) @ conanexiles.
 - [Funcom Legal](https://www.funcom.com/legal/) @ funcom.
 - [Conan Exiles EULA](https://store.steampowered.com//eula/440900_eula_0) @ store.steampowered.
 - [Funcom Modding Code of Conduct](https://forums.funcom.com/t/funcom-modding-code-of-conduct/244006) @ forums.funcom.
