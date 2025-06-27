@@ -23,7 +23,7 @@ Contents ...
 - A community script extender for Lua and C++. Base version maintained on GitHub.
 - Most often requires some porting effort to work for each specific game.
 
-## ModKits
+## modkits
 
 ![](./img/epic-store-modkits-01-small.webp)
 
