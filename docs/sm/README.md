@@ -6,10 +6,4 @@ by CampFire.
 
 UNREAL ENGINE VERSION 4.27
 
-```
-Version: 4.27.2
-Branch: //UE4/Release-4.27
-Build Configuration: Development
-Build Date: Apr 27 2025
-Graphics RHI: DirectX 11
-```
+
