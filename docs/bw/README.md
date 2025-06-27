@@ -2,7 +2,7 @@
 
 by Donkey Crew.
 
-![](./2_create/1_editors/modkit/img/unreal-editor-01.webp)
+![](../ue/2_create/2_editors/ue/img/ue-logo-white-01-100w.webp)
 
 ## Reference
 
