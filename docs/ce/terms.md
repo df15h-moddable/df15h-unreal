@@ -1,6 +1,6 @@
 # Terms
 
-My notes re: Funcom legal such as they are relvant to my material in this repository.
+My notes re: Funcom legal such as they are relvant to material in this repository.
 
 ## TLDR
 
