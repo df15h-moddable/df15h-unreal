@@ -1,5 +1,7 @@
 # Terms
 
+My notes re: Funcom legal such as they are relvant to my material in this repository.
+
 ## Funcom Legal
 
 Q: What is Funcom’s policy on using material from Funcom games on fan productions such as websites?
@@ -13,6 +15,10 @@ A: If you share our content, please provide a link to our site or product web pa
 Q: Can I use your Trademarks or Logos?
 
 A: You may not use our trademarks (including, for example, the game title or our company name) other than to describe the fact that your [content] is about one of our games. Use of our logos is not permitted at all.
+
+Q: Can I create “mods” for your games?
+
+A: Each game that supports mods will address the game’s mod policy in the Terms of Service/EULA.   
 
 ## Reference
 
