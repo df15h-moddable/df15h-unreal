@@ -2,6 +2,8 @@
 
 ![](./img/unreal-editor-01.webp)
 
+![](./img/conan-exiles-modkit-02.webp)
+
 "Using the Unreal Engine 4 Editor with our dev kit you will be able to create content almost the exact same way our own developers do.
 The kit gives you access to basically all the assets of the game, from maps and blueprints to meshes and animations.
 The editor itself requires some knowledge, but there are many guides available, and overall it is relatively easy to use." [6]
