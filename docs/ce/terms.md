@@ -1,3 +1,10 @@
+# Terms
+
+## Funcom Legal
+
+Q: What is Funcom’s policy on using material from Funcom games on fan productions such as websites or videos?
+
+A: We welcome noncommercial (free) fan uses of our released products ... ([read more](https://www.funcom.com/legal/)).
 
 ## Reference
 
