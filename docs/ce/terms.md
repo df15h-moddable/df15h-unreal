@@ -12,8 +12,8 @@ What are the relevant documents?
 
 What did we learn ...?
 
-- We may use material from the game in this repository.
-- We may NOT use Funcom or Conan trademarks -- particularly logos -- in this repository.
+- Both Funcom and Epic are extremely protective of their trademarks and particulalry logos. Do not use them.
+- The Unreal Engine EULA (and by extension therefore the modkit EULA) is generous (within reasonable limits) of distributing technical information for learning purposes.
 
 ## Funcom Legal
 
