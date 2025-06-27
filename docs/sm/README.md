@@ -1,5 +1,3 @@
-![](./1_community/img/soulmask-wallpaper-01-700w.webp)
-
 # Soulmask
 
 by CampFire.
