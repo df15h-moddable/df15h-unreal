@@ -38,4 +38,4 @@ Contents ...
 
 ### Soulmask
 
-- Unreal Engine : Official modkit is built on UE 4.?. Download @ Epic Games Store.
+- Unreal Engine : Official modkit is built on UE 5.5.4. Download @ Epic Games Store.
