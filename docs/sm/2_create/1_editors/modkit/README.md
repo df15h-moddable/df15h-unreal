@@ -1,5 +1,13 @@
 "newly developed Soulmask content editor, built entirely from the ground up using Unreal Engine" -- Developer's Update
 
+```
+Version: 4.27.2
+Branch: //UE4/Release-4.27
+Build Configuration: Development
+Build Date: Apr 27 2025
+Graphics RHI: DirectX 11
+```
+
 ## Reference
 
 - [Soulmask Modkit](https://store.epicgames.com/en-US/p/soulmask-modkit) @ store.epicgames.
