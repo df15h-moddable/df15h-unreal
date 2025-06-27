@@ -23,12 +23,16 @@ Feats ...
 - Armaments
 - Armor Appearances
 - Construction
-- Consumables
+- Consumables (potions, etc)
 - Crafts
 - Equipment
 - Infiltrator
+- Mounts
+- Pets
 - Placeables
+- Poisons
 - Sorcery
+- Tools (high-end pickaxe, etc)
 - Woodglass (build kit)
 
 Weapon types, w unique combos...
