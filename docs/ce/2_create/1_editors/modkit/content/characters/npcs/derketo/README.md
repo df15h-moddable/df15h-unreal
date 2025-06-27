@@ -1,10 +1,10 @@
+# Derketo
 
+Derketo is an NPC. We can use her as a learning example.
 
+## Content
 
-
-
-
-
+We can find Derketo at `Content/Characters/NPCs/Derketo`.
 
 ![](./img/content-browser-derketo.webp)
 
