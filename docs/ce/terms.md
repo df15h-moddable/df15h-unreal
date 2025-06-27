@@ -6,6 +6,10 @@ Q: What is Funcom’s policy on using material from Funcom games on fan producti
 
 A: We welcome noncommercial (free) fan uses of our released products .... ( [read more](https://www.funcom.com/legal/) )
 
+Q: How do I credit Funcom when I use the material on my site?
+
+A: If you share our content, please provide a link to our site or product web page and mention that it belongs to us by showing our copyright notice “© Funcom Oslo AS”.
+
 ## Reference
 
 - [Funcom Legal](https://www.funcom.com/legal/) @ funcom.
