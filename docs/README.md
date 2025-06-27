@@ -1,6 +1,6 @@
 # Unreal Engine
 
-My notes on Unreal Engine modding.
+My notes on modding Unreal Engine games.
 
 ## Contents
 
