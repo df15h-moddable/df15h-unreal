@@ -1,6 +1,6 @@
 # Return to Moria
 
-by Free Ranger.
+by Free Range.
 
 ![](../ue/2_create/2_editors/ue/img/ue-logo-white-01-100w.webp)
 
