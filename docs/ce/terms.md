@@ -51,7 +51,13 @@ A: NO! This document refers to the standard Unreal Engine EULA, with which we mu
 
 ## Unreal Engine EULA
 
-...
+Q: May we reproduce "engine code" here?
+
+A: Yes, in a nutshell, we can post snippets for learning purposes ("public discussion"). (  [read more](https://www.unrealengine.com/en-US/eula/unreal) ) 
+
+Q: May we dsitribute examples?
+
+A: We may distribute examples "in source code or object code". (  [read more](https://www.unrealengine.com/en-US/eula/unreal) ) 
 
 ## Reference
 
