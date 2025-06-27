@@ -20,7 +20,7 @@ Q: Can I create “mods” for your games?
 
 A: Each game that supports mods will address the game’s mod policy in the Terms of Service/EULA.   
 
-## EULA
+## Conan Exiles EULA
 
 Q: Is there a separate EULA for the modkit?
 
