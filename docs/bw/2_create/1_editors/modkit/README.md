@@ -1,6 +1,6 @@
 # Unreal Editor ModKit
 
-From the modkit ...
+Version information from the modkit ...
 
 ![](./img/unreal-editor-01.webp)
 
