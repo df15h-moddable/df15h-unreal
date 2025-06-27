@@ -59,6 +59,12 @@ Q: May we dsitribute examples?
 
 A: We may distribute examples "in source code or object code". (  [read more](https://www.unrealengine.com/en-US/eula/unreal) ) 
 
+## Unreal Engine Branding Guidelines and Trademark Usage
+
+Q: Can we use the Unreal Engine logo?
+
+A: No, not without express permission of Epic Games.
+
 ## Reference
 
 - [Conan Exiles](https://www.conanexiles.com/) @ conanexiles.
@@ -66,3 +72,4 @@ A: We may distribute examples "in source code or object code". (  [read more](ht
 - [Conan Exiles EULA](https://store.steampowered.com//eula/440900_eula_0) @ store.steampowered.
 - [Funcom Modding Code of Conduct](https://forums.funcom.com/t/funcom-modding-code-of-conduct/244006) @ forums.funcom.
 - [Unreal Engine EULA](https://www.unrealengine.com/en-US/eula/unreal) @ unrealengine.
+- [Unreal Engine Branding Guidelines and Trademark Usage](https://www.unrealengine.com/en-US/branding) @ unrealengine.
