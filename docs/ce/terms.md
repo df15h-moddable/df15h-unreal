@@ -2,6 +2,19 @@
 
 My notes re: Funcom legal such as they are relvant to my material in this repository.
 
+## TLDR
+
+What are the relevant documents?
+
+- [Conan Exiles EULA](https://store.steampowered.com//eula/440900_eula_0) @ store.steampowered.
+- `ConanExilesDevKit/CE_UnrealDevKit_EULA_Jan2017.docx`.
+- [Unreal Engine EULA](https://www.unrealengine.com/en-US/eula/unreal) @ unrealengine.
+
+What did we learn ...?
+
+- We may use material from the game in this repository.
+- We may NOT use Funcom or Conan trademarks -- particularly logos -- in this repository.
+
 ## Funcom Legal
 
 Q: What is Funcom’s policy on using material from Funcom games on fan productions such as websites?
@@ -30,9 +43,16 @@ Q: Where do I find that separate UELA?
 
 A: In the Epic games install directory, at `ConanExilesDevKit/CE_UnrealDevKit_EULA_Jan2017.docx`.
 
+##  Conan Exiles Unreal Devkit EULA
+
+Q: Is this document the end of the EULA rabbit-hole?
+
+A: NO! This document refers to the standard Unreal Engine EULA, with which we must also comply.
+
 ## Reference
 
 - [Conan Exiles](https://www.conanexiles.com/) @ conanexiles.
 - [Funcom Legal](https://www.funcom.com/legal/) @ funcom.
 - [Conan Exiles EULA](https://store.steampowered.com//eula/440900_eula_0) @ store.steampowered.
 - [Funcom Modding Code of Conduct](https://forums.funcom.com/t/funcom-modding-code-of-conduct/244006) @ forums.funcom.
+- [Unreal Engine EULA](https://www.unrealengine.com/en-US/eula/unreal) @ unrealengine.
