@@ -1,5 +1,11 @@
 # Elder Scrolls IV Oblivion Remastered
 
+by Bethesda and Virtuous.
+
+![](../ue/2_create/2_editors/ue/img/ue-logo-white-01-100w.webp)
+
+UNREAL ENGINE VERSION 5.3
+
 Oblivion Remastered is a dual-engine game.
 
 - The data aspects are handled by BGS Creation Engine, or more specifically, its Gamebryo predecessor.
