@@ -1,6 +1,10 @@
 # Soulmask
 
-UE modkit (as of Jun 2025) ...
+by CampFire.
+
+![](../ue/2_create/2_editors/ue/img/ue-logo-white-01-100w.webp)
+
+UNREAL ENGINE VERSION 4.27
 
 ```
 Version: 4.27.2
