@@ -4,7 +4,7 @@ Contents ...
 
 - ue : Unreal Engine
 - ue4ss : Unreal Engine 4/5 Scripting System
-- bw : Bellwright
+- bw : Bellwright, by Donkey Crew
 - ce : Conan Exiles, by Funcom
 - es4r : Elder Scrolls IV Oblivion Remastered, by Bethesda
 - sm : Soulmask, by CampFire
