@@ -55,7 +55,7 @@ Q: May we reproduce "engine code" here?
 
 A: Yes, in a nutshell, we can post snippets for learning purposes ("public discussion"). (  [read more](https://www.unrealengine.com/en-US/eula/unreal) ) 
 
-Q: May we dsitribute examples?
+Q: May we distribute examples?
 
 A: We may distribute examples "in source code or object code". (  [read more](https://www.unrealengine.com/en-US/eula/unreal) ) 
 
