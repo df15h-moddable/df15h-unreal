@@ -33,7 +33,7 @@ Contents ...
 
 ### Conan Exiles
 
-- Unreal Engine : Official modkit is built on UE 4.15.3 (2017). Download @ Epic Games Store.
+- Unreal Engine : Official modkit is built on UE `4.15`. Download @ Epic Games Store.
 
 ### Elder Scrolls IV Oblivion Remastered
 
