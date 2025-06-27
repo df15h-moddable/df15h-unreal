@@ -20,6 +20,16 @@ Q: Can I create “mods” for your games?
 
 A: Each game that supports mods will address the game’s mod policy in the Terms of Service/EULA.   
 
+## EULA
+
+Q: Is there a separate EULA for the modkit?
+
+A: YES. "We grant to you a non-exclusive, non-transferable, non-sub licensable license to do the following .... Create and distribute Mods in accordance with provisions below and the _separate_ EULA for the Conan Exiles version of the Unreal Editor that is available with the editor software."
+
+Q: Where do I find that separate UELA?
+
+A: In the Epic games install directory, at `ConanExilesDevKit/CE_UnrealDevKit_EULA_Jan2017.docx`.
+
 ## Reference
 
 - [Conan Exiles](https://www.conanexiles.com/) @ conanexiles.
