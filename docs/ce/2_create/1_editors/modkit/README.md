@@ -1,6 +1,6 @@
 # Unreal Editor ModKit
 
-![](./img/unreal-=editor-01.webp)
+![](./img/unreal-editor-01.webp)
 
 "Using the Unreal Engine 4 Editor with our dev kit you will be able to create content almost the exact same way our own developers do.
 The kit gives you access to basically all the assets of the game, from maps and blueprints to meshes and animations.
