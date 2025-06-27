@@ -29,7 +29,7 @@ Contents ...
 
 ### Bellwright
 
-- Unreal Engine : Official modkit is built on UE ?.?. Download @ Epic Games Store.
+- Unreal Engine : Official modkit is built on UE `5.5`. Download @ Epic Games Store.
 
 ### Conan Exiles
 
@@ -42,4 +42,4 @@ Contents ...
 
 ### Soulmask
 
-- Unreal Engine : Official modkit is built on UE `4.27.x`. Download @ Epic Games Store.
+- Unreal Engine : Official modkit is built on UE `4.27`. Download @ Epic Games Store.
