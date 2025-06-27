@@ -37,7 +37,7 @@ Contents ...
 
 ### Elder Scrolls IV Oblivion Remastered
 
-- Unreal Engine : No official modkit. Download UE devkit 5.3.? @ Unreal Engine.
+- Unreal Engine : No official modkit. Game is built on UE `5.3`. Download @ Epic Games Store.
 - Unreal Engine 4/5 Scripting System (UE4SS) : Download Oblivion Remastered port @ Nexus Mods.
 
 ### Soulmask
