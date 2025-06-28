@@ -9,11 +9,14 @@ by Jintao.
 
 Aside from the map ...
 
-- custom workbenches
+- build kits (Ealdor Stone, Ealdor Wood, Medieval)
+- prefabs
 - decorations
+- custom workbenches
+- armors (e.g. Ealdor set)
+- weapons
 - saddles
 - thralls and NPCs
-- build kits
 
 ## Reference
 
