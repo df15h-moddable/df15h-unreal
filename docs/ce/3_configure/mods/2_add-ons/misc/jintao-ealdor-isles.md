@@ -9,7 +9,7 @@ by Jintao.
 
 Aside from the map ...
 
-- build kits (Ealdor Stone, Ealdor Wood, Medieval)
+- build kits (Ealdor Stone, Ealdor Wood, Ealdor Thatch, Ironborn, Medieval)
 - prefabs
 - decorations
 - custom workbenches
