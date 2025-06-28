@@ -8,7 +8,7 @@ Nearly ALL items are Admin-spawn only.
 
 ### Systems
 
-- Arcana Feats (aka classes) : Beastmaster, Druid, Mage (Spellcraft), Necromancer, Ninja, Sand Priest, Spellblade.
+- Arcana Feats (aka classes) : Bard, Beastmaster, Demonologist, Druid, Mage (Spellcraft), Necromancer, Ninja, Sand Priest, Spellblade.
 - schools of magic : Air, Dragon, Fire, Ice, Lightning, Necromancy, Poison, Sand.
 - familiars (and Familiar Trader) : Demon Lord, Dragon, Eagle, Griffon, Ormr, Succubus, Paradise Flyer, Spellbook.
 - scrolls
