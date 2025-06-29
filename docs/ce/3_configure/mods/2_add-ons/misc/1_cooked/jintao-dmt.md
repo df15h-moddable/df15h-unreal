@@ -34,3 +34,4 @@ Documentation is included in the form of Admin-spawnable "Instructions".
 - [Dungeon Master Tools Eternal](https://steamcommunity.com/sharedfiles/filedetails/?id=3269051739) @ Steam Workshop.
 - [Dungeon Master Tools Manual](https://www.dropbox.com/scl/fi/glhsh7kehrxfuah98ogbt/DungeonMasterTools.pdf?rlkey=5ifpoynfi0jq4qgh3b5xrvv9t&e=2&dl=0) @ dropbox.
 - [Outcast Exiles](https://discord.gg/SWYQ8TtdxF) @ discord.
+- [Dungeon Master Tools](https://www.worldanvil.com/w/dungeonmaster-tools-jestersuave) @ worldanvil.
