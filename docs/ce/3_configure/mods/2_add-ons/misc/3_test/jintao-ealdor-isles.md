@@ -3,7 +3,7 @@
 by Jintao.
 
 - Eador Isles is a STAND-ALONE MAP, but ...
-- It's also an add-on miscellanea (for any map). This is how we use it.
+- It's also an add-on miscellanea (for any map). This is how we would use it.
 
 ## Features
 
