@@ -12,7 +12,7 @@ and to avoid duplication of the same material in any more general place.
 The official Unreal Editor is the most common way to edit Unreal projects.
 There are two kinds of distribution of the Unreal Editor we are likely to use.
 
-- Unreal Editor (aka Unreal Engine) : Obtain directly from Epic.
+- Unreal Editor (aka Unreal Engine) : Obtain directly from Epic Games.
 - modkit : A specific distribution of the Unreal Editor, with a plugin for a particular game. Obtain (usually) from the Epic Games Store.
 
 ## APIs
