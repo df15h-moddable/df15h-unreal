@@ -12,7 +12,6 @@ Documentation is included in the form of Admin-spawnable "Instructions".
 - Helper API
 - cabal (a kind of guild)
 - lockpicking
-- Feat Specializations ("Ancient Scrolls") : Architect, Breaker, Gourmand, Metalwright, Pathfinder, Shadowblade, Skinweaver, Thaumaturge
 
 ### Items
 
