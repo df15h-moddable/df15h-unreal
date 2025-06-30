@@ -38,3 +38,4 @@ We can add Components to our mod directory ...
 ## Reference
 
 - [Mod Controller Basics](https://www.conanexiles.com/wp-content/wiki/2685370865.html) @ conanexiles.
+- [Data Table Merging Operations](https://www.conanexiles.com/wp-content/wiki/2491842561.html) @ conanexiles.
