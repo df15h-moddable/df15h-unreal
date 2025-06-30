@@ -5,4 +5,5 @@
 ## Reference
 
 - [Functions in Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine/functions-in-unreal-engine) @ dev.epicgames.
+- Conan Exiles : [Custom Utility Functions](https://www.conanexiles.com/wp-content/wiki/1626276844.html) @ conanexiles.
 - Conan Exiles : [Taverns and Patrons](https://www.conanexiles.com/wp-content/wiki/3782115473.html) @ conanexiles.
