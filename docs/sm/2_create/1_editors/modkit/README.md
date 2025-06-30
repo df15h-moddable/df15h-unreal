@@ -22,6 +22,7 @@ Graphics RHI: DirectX 11
 - [Soulmask Devkit Tutorial 101: How to replace animals?](https://www.youtube.com/watch?v=a7bYr4DS_aQ) @ youtube.
 - [Soulmask Modkit Tutorial 102: How to generate a new character on the map?](https://www.youtube.com/watch?v=UJuHcbVr2Z0) @ youtube.
 - [Soulmask Workshop](https://steamcommunity.com/app/2646460/workshop/) @ steamcommunity.
+- [Soulmaks Modkit](https://soulmask.fandom.com/wiki/Soulmask_Modkits) @ fandom.
 - [How to make new structures from scratch](https://soulmask.fandom.com/wiki/How_to_make_new_structures_from_scratch) @ fandom.
 - [Soulmask Guides](https://saraserenity.net/soulmask/) @ saraserenity.
 - [Soulmaks Devkit Translation](https://docs.google.com/spreadsheets/d/1Yfss-awZeuXDWyuCKMQlK_YO-evgPxVTQ695D0JDCtQ/edit?gid=0#gid=0) @ Google Sheets.
