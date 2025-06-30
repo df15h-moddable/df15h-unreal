@@ -4,16 +4,6 @@
 
 "Blueprints can get references to any asset in the game as well as any C++ exposed to blueprints." -- buckminsterfullerene02
 
-## Blueprint Class
-
-Explanation from "Conan Exiles Modder's Field Manual" (rephrased) ...
-
-- A Blueprint Class is a template for an in-game object.
-- At runtime the game engine creates one or more instances of the Class in the game world.
-- These can be “living” objects that will behave according to their instructions.
-- For example, `BP_NPC_Wildlife_Gazelle` is a Blueprint Class, and each gazelle you see in the game is an instance of that class.
-
-
 ## Reference
 
 - [Blueprints Visual Scripting](https://dev.epicgames.com/documentation/en-us/unreal-engine/blueprints-visual-scripting-in-unreal-engine) @ dev.epicgames.
