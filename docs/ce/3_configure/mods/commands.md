@@ -1,4 +1,5 @@
 
+- Conan Exiles Helper : `shift + F1` or `DataCmd CEHelper`
 - Improved Thralls & QoL (admin) : `DataCmd ImprovedThrallsQoL`
 - Improved Thralls & QoL (player) : `DataCmd ImprovedThrallsQoLUser`
 - ModControlPanel : `shift + end`
