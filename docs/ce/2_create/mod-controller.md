@@ -1,5 +1,12 @@
 # Mod-Controller
 
+## Why?
+
+- The mod loader requires a mod-controller in the root directory of the mod.
+- A mod-controller is a `Blueprint Class`. So, in other words, the mod loader requires a Blueprint in the root directory of the mod.
+- A mod-controller can add new Components to base-game Blueprints.
+- A mod-controller can merge new Data Tables with base-game Data Tables.
+
 ## Create a Project
 
 The modkit helps us set up a project per convention ...
@@ -23,6 +30,10 @@ The Conan Exiles mod loader expects a special kind of Blueprint called a "Mod-Co
 We can add Components to our mod directory ...
 
 "In order to access certain functions of many blueprints, it's better to attach a component to the blueprint rather than modifying the original asset. If anyone else edits the core game asset, the mod load order will simply apply the last-one-in principle, and your functionality may/will be lost. For this reason, the mod-controller can add components to blueprints." (Modding @ conanexiles)
+
+## Data Tables
+
+"If you want to add new recipes, items, feats or work with any other table, you will need to make a new table of the same type. This new data-table will then (by the power of the mod-controller) be merged into the basegame table and give access to all of your entries." (Modding @ conanexiles)
 
 ## Reference
 
