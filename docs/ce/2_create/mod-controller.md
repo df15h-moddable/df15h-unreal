@@ -18,6 +18,12 @@ The Conan Exiles mod loader expects a special kind of Blueprint called a "Mod-Co
 2. Right-click and create a new `Blueprint Class`.
 3. Name it per convention `SomethingSomething_ModController` (but it could be anything; this is not how it is identified by the loader).
 
+## Components
+
+We can add Components to our mod directory ...
+
+"In order to access certain functions of many blueprints, it's better to attach a component to the blueprint rather than modifying the original asset. If anyone else edits the core game asset, the mod load order will simply apply the last-one-in principle, and your functionality may/will be lost. For this reason, the mod-controller can add components to blueprints." (Modding @ conanexiles)
+
 ## Reference
 
 - [Mod Controller Basics](https://www.conanexiles.com/wp-content/wiki/2685370865.html) @ conanexiles.
