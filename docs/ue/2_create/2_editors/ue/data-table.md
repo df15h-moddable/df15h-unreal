@@ -14,4 +14,5 @@
 - [Working with Data in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more) @ dev.epicgames.
 - [Structs in Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine/structs-in-unreal-engine) (`UStruct`) @ dev.epicgames.
 - [Creating an NPC](https://www.conanexiles.com/wp-content/wiki/2689794966.html) @ conanexiles.
+- [Creating a Pet](https://www.conanexiles.com/wp-content/wiki/2685371007.html) @ conanexiles.
 - [How to Use Data Tables in Unreal Engine 5](https://www.youtube.com/watch?v=aZdztLTG3OQ) by Gorka Games @ youtube.
