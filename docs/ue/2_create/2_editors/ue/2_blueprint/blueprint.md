@@ -12,3 +12,4 @@
 - Conan Exiles : [Journey System](https://www.conanexiles.com/wp-content/wiki/3437659279.html) @ conanexiles.
 - Conan Exiles : [Ritual Implementation](https://www.conanexiles.com/wp-content/wiki/2964619273.html) @ conanexiles.
 - Conan Exiles : [Spell-casting Implementation](https://www.conanexiles.com/wp-content/wiki/2828697704.html) @ conanexiles.
+- Conan Exiles : [Taverns and Patrons](https://www.conanexiles.com/wp-content/wiki/3782115473.html) @ conanexiles.
