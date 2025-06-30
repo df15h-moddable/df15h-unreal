@@ -6,7 +6,8 @@ There are two ways to create and run C++ code for Unreal Engine mods ...
 - UE4SS : Create a project to bind to the UE4SS API.
 
 IMPORTANT : In BOTH cases, most of the authoring and compilation will happen _outside_ of the Unreal Editor.
-The Unreal Editor doesn't actually include a build environment 
+The Unreal Editor doesn't actually include a build environment.
+They expect us to point Microsoft Visual Studio to a shared filesystem.
 
 ## Reference
 
