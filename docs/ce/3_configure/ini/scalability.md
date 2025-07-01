@@ -24,6 +24,12 @@ r.Shadow.CachedShadowsCastFromMovablePrimitives
 
 A [mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2338340168) @ Steam Workshop that enables dynamic shadows.
 
+Q: Why?
+
+A: Similar to Fallout 4, given default settings light unimmersively ignores walls, etc.
+
+Configure ...
+
 - Intended to be used with Shadow Quality = Ultra.
 - Requires the following edit to `Scalability.ini`...
 
