@@ -26,7 +26,7 @@ A [mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2338340168) @ Ste
 
 Q: Why?
 
-A: Similar to Fallout 4, given default settings light unimmersively ignores walls, etc.
+A: Similar to Fallout 4, given default settings lights (e.g. torches) unimmersively ignore walls, etc.
 
 Configure ...
 
