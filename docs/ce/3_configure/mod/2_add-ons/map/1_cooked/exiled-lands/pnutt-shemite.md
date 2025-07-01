@@ -30,6 +30,11 @@ Cinematic_x1_y4
 Camps-NPC_x1_y4-2
 ```
 
+## Performance
+
+- As one might expect from a mod this ambitious, it seems greedy with texture additions.
+- We have experienced the low-res texture problem, as it pushes the limits of the allotted memory (which is less than our GPU has available).
+
 ## Build Kit
 
 - The mod adds a build kit and decorations.
