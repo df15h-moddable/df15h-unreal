@@ -1,6 +1,6 @@
 # `GameUserSettings.ini`
 
-These are available to the end-user in the "Settings" panel.
+These are available in-game, in the "Settings" panel.
 
 Includes ...
 
