@@ -15,6 +15,7 @@ by PNutt
 ## Conflicts
 
 - The mod seems genuinely designed to minimize impact.
+- This mod does not require the Curse Wall to be disabled. It is within bounds.
 - The Crowngrove does not seem substantially disrupted.
 - The mod clobbers a few small camps and one white tiger location.
 - There are four white tiger locations in the Exiled Lands -- two in or near the Iruk location.
