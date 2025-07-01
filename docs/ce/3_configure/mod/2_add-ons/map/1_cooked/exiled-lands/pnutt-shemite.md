@@ -11,7 +11,7 @@ by PNutt
 
 - The mod is _extremely_ well made. Feels like something out of a high-fidelity "Age of Conan".
 - It evokes the feeling of a real-world visit to historic sites in Greece and Turkey, in a way the vanilla environments do not.
-- It contains well-chosen custom sound-effects andmusic. It may add tracks from "Age of Conan", including the Tortage motif.
+- It contains well-chosen custom sound-effects and music. It may add tracks from "Age of Conan", including the Tortage motif.
 
 ## Conflicts
 
