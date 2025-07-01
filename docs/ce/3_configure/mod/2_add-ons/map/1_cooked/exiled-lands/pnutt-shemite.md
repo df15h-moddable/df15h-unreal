@@ -5,6 +5,7 @@ by PNutt
 - Adds a city (Iruk) to the western edge of the Exiled Lands, on the savannah north of Sepermeru.
 - The city limits begin on the northern side of the vanilla location called the Crowngrove.
 - There are no build-blockers. We're expected to enhance the city.
+- The mod includes a sewer dungeon.
 
 ## Impressions
 
