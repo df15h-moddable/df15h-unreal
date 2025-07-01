@@ -9,6 +9,7 @@ My notes re: modding Unreal Engine games.
 - bw : Bellwright, by Donkey Crew
 - ce : Conan Exiles, by Funcom
 - es4r : Elder Scrolls IV Oblivion Remastered, by Bethesda
+- hw : Hogwarts Legacy, by Avalanche (WB)
 - lotr-rm : Return to Moria, by Free Range
 - sm : Soulmask, by CampFire
 
