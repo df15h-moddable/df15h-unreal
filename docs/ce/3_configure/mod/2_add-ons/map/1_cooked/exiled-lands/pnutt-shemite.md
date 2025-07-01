@@ -9,7 +9,7 @@ by PNutt
 
 ## Impressions
 
-- The mod is _extremely_ well done. Feels like something out of a high-fidelity "Age of Conan".
+- The mod is _extremely_ well made. Feels like something out of a high-fidelity "Age of Conan".
 - It contains well-chosen custom music. It sounds like it adds some from "Age of Conan", including the Tortage motif.
 
 ## Conflicts
