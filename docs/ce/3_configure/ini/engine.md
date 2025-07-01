@@ -40,6 +40,15 @@ r.LightFunctionQuality
 r.AmbientOcclusionLevels
 r.AmbientOcclusionMaxQuality
 r.AmbientOcclusionRadiusScale
+r.ViewDistance
+r.ViewDistanceScale
+r.LandscapeLODDistributionScale
+r.LandscapeLOD0DistributionScale
+r.StaticMeshLODDistanceScale
+r.MaxAnisotropy
+grass.CullDistanceScale
+foliage.LODDistanceScale
+foliage.MinimumScreenSize
 
 [WindowsApplication.Accessibility] 
 StickyKeysHotkey
