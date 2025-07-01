@@ -36,7 +36,7 @@ r.MaxAnisotropy
 r.MaxAnisotropy
 r.Streaming.PoolSize
 
-[ViewDistanceQuality@3] 
+[ViewDistanceQuality@0] 
 r.ViewDistanceScale
 ```
 
