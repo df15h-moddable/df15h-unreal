@@ -1,4 +1,4 @@
-# Shemite City State
+# Shemite City State (Iruk)
 
 by PNutt
 
