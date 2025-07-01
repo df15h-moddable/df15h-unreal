@@ -1,5 +1,7 @@
 # Add-ons
 
+Contents arranged as follows ...
+
 1. Cooked
 2. Old School Essentials
 3. Test
@@ -21,5 +23,5 @@
 
 ## Test
 
-- I've tried these, but for whatever reason am not using them.
+- I've tried these, but for whatever reason decided not to use them.
 - I may not be using them, but I've made notes I'd like to keep.
