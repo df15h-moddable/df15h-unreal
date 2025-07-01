@@ -1,5 +1,12 @@
 # `Scalability.ini`
 
+Graphics settings are organized into groups ...
+
+- `@0` = Low
+- `@1`
+- `@2`
+- `@3` = Ultra
+
 ## Shadows
 
 Shadow quality is managed in `Scalability.ini`.
@@ -7,7 +14,12 @@ Shadow quality is managed in `Scalability.ini`.
 Settings include ...
 
 ```
-[ShadowQuality@1]
+[PostProcessQuality@0]
+r.AmbientOcclusionLevels
+r.FastBlurThreshold
+r.ScreenSpaceReflections
+
+[ShadowQuality@0]
 r.LightFunctionQuality
 r.ShadowQuality
 r.Shadow.CSM.MaxCascades
@@ -18,6 +30,14 @@ r.Shadow.CSM.TransitionScale
 r.DistanceFieldShadowing
 r.DistanceFieldAO
 r.Shadow.CachedShadowsCastFromMovablePrimitives
+
+[TextureQuality@0] 
+r.MaxAnisotropy
+r.MaxAnisotropy
+r.Streaming.PoolSize
+
+[ViewDistanceQuality@3] 
+r.ViewDistanceScale
 ```
 
 ## Amunets Dynamic Shadows
