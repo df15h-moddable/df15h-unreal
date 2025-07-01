@@ -13,6 +13,7 @@ by PNutt
 
 ## Conflicts
 
+- The mod seems genuinely designed to minimize impact.
 - The mod clobbers a few small camps and one white tiger location.
 - There are four white tiger locations in the Exiled Lands -- two in or near the Iruk location.
 - Only one of those two is clobbered by Iruk. The other one is untouched.
