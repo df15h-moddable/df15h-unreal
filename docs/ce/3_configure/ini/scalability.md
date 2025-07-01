@@ -34,6 +34,7 @@ r.Shadow.CachedShadowsCastFromMovablePrimitives
 [TextureQuality@0] 
 r.MaxAnisotropy
 r.MaxAnisotropy
+r.Streaming.LimitPoolSizeToVRAM
 r.Streaming.PoolSize
 
 [ViewDistanceQuality@0] 
