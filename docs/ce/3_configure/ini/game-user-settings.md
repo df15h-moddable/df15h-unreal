@@ -1,5 +1,7 @@
 # `GameUserSettings.ini`
 
+These are available in the UI.
+
 Includes ...
 
 ```
