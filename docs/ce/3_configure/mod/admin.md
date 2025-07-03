@@ -4,7 +4,7 @@
 
 Key Admin-only placeables, summarized.
 
-- Dungeon Master Tools (DMT) : Tier I Ancient Scrolls (for 8 Knowledge specializations).
+- Dungeon Master Tools (DMT) : Ancient Scrolls Tier I (for 8 Knowledge specializations).
 - Guardians of Abyssal Times (GOAT)
 - Thrall Wars
 - Underworld : Cheeky Trader, Rocky Road Mine.
